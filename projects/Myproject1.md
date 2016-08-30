@@ -3,6 +3,7 @@ layout: project
 type: demonstration
 title: demonstrator
 date: 2016
+permalink: projects/Myproject11
 summary: My experience at DFS working as demonstator who introduces products to customers.
 ---
 <img class="ui medium right floated rounded image" src="../images/IMG_5197.JPG">
