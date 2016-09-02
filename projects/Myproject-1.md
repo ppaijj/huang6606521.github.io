@@ -4,6 +4,8 @@ type: demonstration
 title: demonstrator
 date: 2016
 permalink: projects/Myproject11
+lables:
+  - DFS
 summary: My experience at DFS working as demonstator who introduces products to customers.
 
 ---
