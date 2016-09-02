@@ -5,7 +5,6 @@ title: Passion
 date: 2016-09-01
 labels:
   - Software Engineering
-  - Learning
   - WODs
 ---
 
