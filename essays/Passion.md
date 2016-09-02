@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Passion
-date: 2016-09-1
+date: 2016-09-01
 labels:
   - Software Engineering
   - Learning
